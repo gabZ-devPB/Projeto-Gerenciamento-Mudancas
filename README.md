@@ -48,11 +48,11 @@ O projeto foi desenvolvido para:
 
 ## 👨‍💻 Criadores
 
-- 👤 **Gabriel Pereira**  
-- 👤 **Jorge Luis**  
-- 👤 **Kaique Neres**  
-- 👤 **Gabriel David**
-- 👤 **Pedro Rogerio**
+- 👤 **Gabriel Pereira Bezerra**  
+- 👤 **Jorge Luis Quirino Braga**  
+- 👤 **Kaique Neres Soares da Silva**  
+- 👤 **Gabriel David Ferreira de Freitas**
+- 👤 **Pedro Rogerio Braga Rolim**
 
 ---
 
